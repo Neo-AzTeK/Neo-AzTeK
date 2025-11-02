@@ -1,11 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="100%" preserveAspectRatio="xMidYMid meet">
     <style>
         @media (prefers-color-scheme: dark) {
-            text.text {
+            svg{
+            text {
                 fill: #ffffffff;
             }
+            image {
+                filter: unset;
+            }
+            }
         }
-        .text {
+        image {
+            filter: invert(1);
+        }
+        text {
             fill: #000000ff;
             font-size: 90px;
             font-weight: 700;
@@ -48,10 +56,10 @@
         </path>
     </g>
 
-    <text text-anchor="middle" x="50%" y="60%" class="text" stroke-width="1">
+    <text text-anchor="middle" x="50%" y="60%" stroke-width="1">
         AzTeK
     </text>
-    <text text-anchor="middle" x="50%" y="70%" class="text desc">
+    <text text-anchor="middle" x="50%" y="70%" class="desc">
         Precision in every line.
     </text>
 
