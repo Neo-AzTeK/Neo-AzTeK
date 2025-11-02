@@ -2,26 +2,24 @@
 
 # **Dimitri FAJAL**
 
-Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in everything tech-related — from coding and electronics, cyber or reverse engineering and tinkering as a whole. I'm always learning new tech and I love it !
-
-> 📌 Make sure to check out my pinned projects !
-
-## 🧑‍💻 About Me
+Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in everything tech-related — from coding and electronics, cyber or reverse engineering and tinkering as a whole. I'm always learning and I love it !
 
 - 🎓 Currently studying Computer Science at TSP (Télécom SudParis)
-- 🚀 Building and launching rockets with my club for over 10 years
-- 🔧 Very keen on meddling with side projects — websites, middleware, hardware… you name it
+- 🐍 Member of the CodeClique team of the GATE project
+- 🚀 Building and launching rockets with Acelspace for over 10 years
+> 📌 Don't miss my pinned projects and my website !
 
 ## 🔗 My socials
 
 [![Email](https://img.shields.io/badge/dimitri.faj@orange.fr-FF7900?style=for-the-badge&logo=orange&logoColor=white)](mailto:dimitri.faj@orange.fr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dimitri%20FAJAL-0a66c2?style=for-the-badge&labelColor=0a66c2&logo=linkedin)](https://www.linkedin.com/in/dimitri-fajal/)
-[![GitHub](https://img.shields.io/badge/AzTeK-181717?style=for-the-badge&logo=github)](https://github.com/Neo-AzTeK)
+[![Personnal website](https://img.shields.io/badge/AzTeK-8B1E1E?style=for-the-badge&logo=htmx)](https://aztek-web.fr)
 
-## 🛠️ Tech I've already worked with
+## 🛠️ Tech I've worked with / know extensively
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-f29111?style=flat)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878F?style=flat&logo=Arduino&logoColor=white)
@@ -36,6 +34,9 @@ Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in ev
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=flat&logo=css&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=javascript&logoColor=grey)
+
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=flat&logo=angular&logoColor=white)
 ![Material Design](https://img.shields.io/badge/Material%20Design-6750A4?style=flat&logo=materialdesign&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
@@ -67,4 +68,4 @@ Hey there! I’m **Dimitri**, a 20-year-old student with a strong interest in ev
 
 ---
 
-> _“Tinker, understand and make it work.”_
+> _“Precision in every line.”_
